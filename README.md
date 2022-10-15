@@ -12,7 +12,8 @@ for classifying using machine learning such as KNN, or Multilayer Perceptron(MLP
 However, in a real-world environment, the challenge is how to deal with the facial image being affected by the variance in factors such as illumination, pose, facial expression, occlusion, background information, and noise.
 This is then also the challenge in the development of a robust face-basedgender classification system that has high classification accuracy and real-time performance.
 The convolutional neural network(CNN) can solve the aforementioned. The main advantage of CNN compared to its predecessors is that it automatically detects the important features without any human supervision
-## Demo
+## DEMO
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%20(1427).png)
-## How backpropagation works in the aforementioned model?
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%20(1431).png)
+## DETECTION METHOD
+
