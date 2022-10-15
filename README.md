@@ -19,4 +19,7 @@ FOR REAL TIME MALE CLASSIFICATION
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%20(1431).png)
 ## DETECTION METHOD
 This section introduces methods which were used in our experiments. The ﬁrstsubsection presents our recommended method in details.
+ALEXnet Style:
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%202022-10-15%20204312.png)
+LeNet Style:
+![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%202022-10-15%20205107.png)
