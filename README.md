@@ -23,3 +23,5 @@ ALEXnet Style:
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%202022-10-15%20204312.png)
 LeNet Style:
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%202022-10-15%20205107.png)
+## MODEL EVALUATION
+
