@@ -14,11 +14,11 @@ This is then also the challenge in the development of a robust face-basedgender 
 The convolutional neural network(CNN) can solve the aforementioned problem. The main advantage of CNN compared to its predecessors is that it automatically detects the important features without any human supervision.
 ## DEMO
 FOR REAL TIME FEMALE CLASSIFICATION
-![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%20(1427).png)
-\
+![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%20(1427).png)\
+
 FOR REAL TIME MALE CLASSIFICATION
-![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%20(1431).png)
-\
+![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%20(1431).png)\
+
 ## DETECTION METHOD
 This section introduces methods which were used in our experiments. The ﬁrstsubsection presents our recommended method in details.
 ALEXnet Style:
