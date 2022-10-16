@@ -33,4 +33,4 @@ The loss function converge after 20 epochs. The validation accuracy of the last 
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/t%E1%BA%A3i%20xu%E1%BB%91ng%20(3).png)\
 The above figure respresent the ROC curve of the model, the AUC measures the entire two-dimensional area underneath the entire ROC curve which is high, about 0.9961. The AUC provides an aggregate measure of performance across all possible classification threshold, and the highest AUC is 1(False positive rate = 0 and True positive rate = 1) and we can conclude that this model is good.\
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%202022-10-16%20191433.png)\
-The range of threshold is in (40,50) because F1 is relatively high in this domain, after some test, the threshold 45 is used for avoid overfitting\
+The range of threshold is in (40,50) because F1 is relatively high in this domain, after some test, the threshold 45 is used to avoid overfitting.
