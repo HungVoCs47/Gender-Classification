@@ -29,5 +29,6 @@ LeNet Style:
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%202022-10-15%20205107.png)
 ## MODEL EVALUATION
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/t%E1%BA%A3i%20xu%E1%BB%91ng%20(2).png)\
-The loss function converge after 20 epochs. The validation accuracy of the last epochs is 97.6%, which is relatively high. The train and validation accuracy in the training stage increase after each one epoch. The ﬁgures show that the convolutional neural networks have outperformed in gender detection in real-world environments.
+The loss function converge after 20 epochs. The validation accuracy of the last epochs is 97.6%, which is relatively high. The train and validation accuracy in the training stage increase after each one epoch. The ﬁgures show that the convolutional neural networks have outperformed in gender detection in real-world environments.\
+![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/tree/main/image)
 
