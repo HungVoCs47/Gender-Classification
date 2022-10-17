@@ -34,7 +34,7 @@ The loss function converge after 20 epochs. The validation accuracy of the last 
 The above figure respresent the ROC curve of the model, the AUC measures the entire two-dimensional area underneath the entire ROC curve which is high, about 0.9961. The AUC provides an aggregate measure of performance across all possible classification threshold, and the highest AUC is 1(False positive rate = 0 and True positive rate = 1) and we can conclude that this model is good.\
 |Threshold                                                            |F1-score    |Accuracy|
 |--------------------------------------------------------------------------------------|--------------|----------------|
-|P = 0.4 |nightly (1.x) |2.11.0          |
-|P = 0.5       |1.13          |2.11.0          |
+|P = 0.4 |F1 =  |Acc =           |
+|P = 0.5       |F1 =           |Acc =         |
 
 
