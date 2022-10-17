@@ -18,7 +18,7 @@ FOR REAL TIME FEMALE CLASSIFICATION
 
 
 FOR REAL TIME MALE CLASSIFICATION
-![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%20(1431).png)
+![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%20(1444).png)
 
 
 ## DETECTION METHOD
