@@ -32,5 +32,11 @@ LeNet Style:
 The loss function converge after 20 epochs. The validation accuracy of the last epochs is 97.6%, which is relatively high. The train and validation accuracy in the training stage increase after each one epoch. The ﬁgures show that the convolutional neural networks have outperformed in gender detection in real-world environments.\
 ![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/t%E1%BA%A3i%20xu%E1%BB%91ng%20(3).png)\
 The above figure respresent the ROC curve of the model, the AUC measures the entire two-dimensional area underneath the entire ROC curve which is high, about 0.9961. The AUC provides an aggregate measure of performance across all possible classification threshold, and the highest AUC is 1(False positive rate = 0 and True positive rate = 1) and we can conclude that this model is good.\
-![Recommendation App](https://github.com/HungVoCs47/Gender-Classification/blob/main/image/Screenshot%202022-10-16%20191433.png)\
-The range of threshold is in (40,50) because F1 is relatively high in this domain, after some test, the threshold 45 is used to avoid overfitting.
+|tensorflow-data-validation                                                            |tensorflow    |apache-beam[gcp]|
+|--------------------------------------------------------------------------------------|--------------|----------------|
+|[GitHub master](https://github.com/tensorflow/data-validation/blob/master/RELEASE.md) |nightly (1.x) |2.11.0          |
+|[0.13.1](https://github.com/tensorflow/data-validation/blob/v0.13.1/RELEASE.md)       |1.13          |2.11.0          |
+|[0.13.0](https://github.com/tensorflow/data-validation/blob/v0.13.0/RELEASE.md)       |1.13          |2.11.0          |
+|[0.12.0](https://github.com/tensorflow/data-validation/blob/v0.12.0/RELEASE.md)       |1.12          |2.10.0          |
+|[0.11.0](https://github.com/tensorflow/data-validation/blob/v0.11.0/RELEASE.md)       |1.11          |2.8.0           |
+|[0.9.0](https://github.com/tensorflow/data-validation/blob/v0.9.0/RELEASE.md)         |1.9           |2.6.0           |
